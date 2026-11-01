@@ -4,7 +4,7 @@
 ### 💻 Software Engineering Student | Developer | Tech Enthusiast
 
 <p align="center">
-  <img src="./222.png" width="180" alt="Derrick's Profile Picture" />
+  <img src="./222.jpg" width="180" alt="Derrick's Profile Picture" />
 </p>
 
 <p align="center">
